@@ -48,7 +48,7 @@ namespace ProgramCondition
                 System.Console.WriteLine("your enter name is {0}", name);
                 name = "fa wai si";
             }
-            else if (name = "wu wang")
+            else if (name == "wu wang")
             {
                 System.Console.WriteLine("your enter name is {0}", name);
                 name = "fa wai wu";
