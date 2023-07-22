@@ -14,7 +14,7 @@
 
 using System.Collections.Generic;
 
-namespace ProgramCondition
+namespace ProgramLoop
 {
     public class Program
     {

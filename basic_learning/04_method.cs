@@ -12,7 +12,7 @@
  *
  */
 
-namespace ProgramCondition
+namespace ProgramMethod
 {
     public class Program
     {

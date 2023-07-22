@@ -13,4 +13,9 @@ code .
 
 // 编译选项风格Microsoft, 想一想 MSVC(cl) 对于 C++ 的编译选项格式 ^_^
 csc 01_hello.cs /out:hello.exe
+
+// git and push to GitHub ---> main branch firstly
+git remote add origin https://github.com/2694048168/CSharpLanguageLearning.git
+git branch -M main
+git push -u origin main
 ```
