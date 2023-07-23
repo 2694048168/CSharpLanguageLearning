@@ -135,5 +135,5 @@ _NCrunch*
 *.exe
 ./**/*.exe
 
-/test
+./test
 ./test/*

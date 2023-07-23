@@ -40,5 +40,7 @@ git push -u origin main
 # 1. Windows 窗体应用程序, 利用 .NET framework,
 # 这种方式有点类似 C++ 的 MFC 方式,
 
-# 2. WPF 应用程序, 可以开发更加美观的界面程序,
+# 2. WPF 应用程序, 可以开发更加美观的界面程序, 基于 directX，支持对于 3D 的处理
+
+# 3. Winform 开发应用程序, 本质上就是在 MFC 上增加一层 .Net API
 ```
