@@ -19,3 +19,17 @@ git remote add origin https://github.com/2694048168/CSharpLanguageLearning.git
 git branch -M main
 git push -u origin main
 ```
+
+
+### C-Sharp 代码组织
+
+```shell
+# 1. 多文件组织代码，
+# 注意 名字空间的引入和代码访问控制权限
+
+# 2. .dll 动态库组织代码
+# 注意 名字空间的引入和代码访问控制权限
+
+# 3. NuGet 包管理器
+# https://www.nuget.org/
+```
