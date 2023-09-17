@@ -1,5 +1,15 @@
 ## C-Sharp(C#) Programming Learning
 
+
+### Quick start
+
+```shell
+# clone this repo. to a folder or path
+git clone --recursive https://github.com/2694048168/CSharpLanguageLearning.git
+
+cd CSharpLanguageLearning
+```
+
 - C# and .NET framework(Windows) and .NET Core(cross platform)
 - C# compiler and 中间代码(.dotnet)解析为机器码
 
