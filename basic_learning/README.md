@@ -14,6 +14,10 @@
 - [x] multi-file organization in C-Sharp
 - [x] file and folder handle operator in C-Sharp
 - [ ] [NuGet](https://www.nuget.org/) ---> package manager for C#
+- [x] Array and String class in C-Sharp
+- [x] struct and class(constructor and destructor) and this pointer in C-Sharp
+- [x] Encapsulation and Inheritance and Polymorphism in C-Sharp
+- [x] function and operator overloading in C-Sharp
 
 
 ### Quick start
