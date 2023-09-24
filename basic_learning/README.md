@@ -20,6 +20,10 @@
 - [x] function and operator overloading in C-Sharp
 - [x] interface and regular expression in C-Sharp
 - [x] Attribute(特性) and Reflection(反射) and Property(属性) and Indexer(索引器)
+- [x] Delegate(委托) & Event(事件) & Collection(集合): stack\queue\list\hash table\BitArray
+- [x] Generic(泛型) & 匿名函数/匿名方法 in C-Sharp
+- [x] 指针变量 & unsafe in C-Sharp
+- [x] multiple thread(多线程) in C-Sharp
 
 
 ### Quick start
